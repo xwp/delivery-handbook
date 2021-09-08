@@ -67,6 +67,7 @@
       * PM, PO, QA, UX/UI, all Devs, Client participants
     * Stand-ups
       * Async via Slack Workflow \(see [Stand-up Workflows in Slack](setup-scrum/setting-up-a-stand-up-workflow-in-slack.md#stand-up-workflow-setup) for setup instructions\)
+19. Setup performance tracking using [Calibre](https://calibreapp.com/) following [this guide](https://docs.google.com/document/d/11zVdR87NhksLkAKLpNkwaDVxQ71ZWGs8i-bWwODeLpo/edit). Please reach out to Mike for any questions or access details.
 
 ## Ongoing Tasks
 
