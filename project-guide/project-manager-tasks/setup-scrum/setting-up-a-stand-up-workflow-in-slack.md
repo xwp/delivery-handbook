@@ -21,15 +21,15 @@ As noted in the [Setup Scrum ](./)page, we use Workflows within Slack for our St
 
 ![](https://lh6.googleusercontent.com/Ne6luIW7vDL7QPYmqq_j1o3vxMM_ar0awLuVigGxIREAh3zOSClXL8rDMuC02JzdyRVXDhilhT-FZiIYkFtYLMkXVo1R9RyNNUij_QAGzEj21ApyesEnlUtkhynBD_RMgBt4Qmlo)
 
-* Update the desired channel in both the **Actions** menu and the last **Send a message** sections
+* Update the desired channel in both the **Actions** menu and the last **Send a message** sections. Please note: \#journals should be in the 1st Send a Message section, and the client-facing Slack channel should be in the 2nd Send a message section.
 
 ![](https://lh3.googleusercontent.com/7cxVM2QgumIPzeQKhAXiOQxAgGXfR47TGBd9JXy-DJIylO9E9FkfQhaaeKbxEKciTW0N3yXcaPaCM_SQWsFuf8j1KpD5Bo0KYTQZe1lrAlVaTKuMZNQviSwdzL07CmuVfxyWWNCY)
 
 ![](https://lh5.googleusercontent.com/zX9gTXU-9DNHHTCB1umU7a_ZFDbqFnQMD_T2SLZ1WF24AD02EbMhg61YWTc7lwV-iFW-1vMMr86lKhcm3xVP7Nlj19GnZYFlEtxYe9aE0zCEyuHigRdP5CyFYN6-dpPhNHPrKAbe)
 
 * Replace **Project Name** in both **Send a Message** sections
-* Save and ask for someone to review or Publish the workflow
-* To update the Icon for your Workflow, go into the desired Project Standup Workflow and select **Settings**, then select **Edit** under the **Icon** section shown below. Please note, you must have a saved logo that is at least 512px by 512px, or larger, in order for the icon .png file to save.
+* Save and ask for someone to review or Publish the workflow. **Be sure to add Tanya, Derek and Mackenzie as a collaborator to your new workflow, so they can review.**
+* To update the Icon for your Workflow, go into the desired Project Standup Workflow and select **Settings**, then select **Edit** under the **Icon** section shown below. Please note, you must have a saved logo that is at least 512px by 512px, or larger, in order for the icon .png file to save and it must be square, the same px by px.
 
 ![](https://lh6.googleusercontent.com/DhT3v-i2Pyk2eayoJW6a_qx_YrnKeiHos7wYTmZ2IGhyn6j5oo8iKIT-qUJLHpELyvZlF9gW35l70_xTUhjAx8-i1zRt0qIPGaFMzXoVOv_8biA71GGRpUVAIpmOFzTFqYJkOyNi)
 
@@ -37,7 +37,7 @@ As noted in the [Setup Scrum ](./)page, we use Workflows within Slack for our St
 
 * Once a Workflow is created, it will push a notification to both the \#journals XWP Slack channel and the client-facing Slack channel you designated in the steps above. 
 
-## Creating a Satnd-up using the Workflow
+## Creating a Stand-up using the Workflow
 
 * Team members in that client-facing Slack channel should select the **blue bolt icon** under where they would normally post a message to the channel, shown below. 
 
