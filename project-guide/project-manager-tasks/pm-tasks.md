@@ -30,14 +30,14 @@
     * Share Client Brief file in the internal Slack Channel
 11. Create an Internal kick-off
     * [Use Internal kick-off template](https://docs.google.com/document/d/1cwyHYJngBxaTpyBQiK88b3c62nnfvlbZJvAl851ARsE/edit#)
-    * Invite the Client and all known team members, and optionally Leo, Mackenzie, Derek and Amit
+    * Invite the Client and all known team members, and optionally Leo, Mackenzie, Derek, Amit and Michelle \(Marketing\)
 12. Determine with Architect/Lead Engineer what the team allocations looks like, and update [Forecast](https://forecastapp.com/559059/schedule/projects?showDrawer=true)
 13. Sales or the Account Manager will email the client to let them know that the project is kicking off, and introduce the PM as the Point of Contact
 14. Communicate with the client to get access for the team to necessary repos, etc.
     * Ask Architect/Engineer\(s\) what they need
 15. Create an External kick-off \(almost always needed\)
     * [Use External kick-off template](https://docs.google.com/document/d/1AOanvRRh8V83ZIUxAWoPrNl52KiH98-gEKTRxgNcq0w/edit#)
-    * Invite the Client and all known team members, and optionally Leo, Mackenzie, Derek and Amit
+    * Invite the Client and all known team members, and optionally Leo, Mackenzie, Derek, Amit and Michelle \(Marketing\)
 16. If required for the project, create a Status Report using these steps
     * Make a copy of the [Status Report Template](https://docs.google.com/spreadsheets/d/1yiIqmnGRZB42M_Xvlo6bZgZeezPtF4zQOnyXuYuK_aY/edit#gid=576735664), rename it for your project, and move it to the project folder in Google Drive
     * Determine which tabs you need \(you may only need one\)
