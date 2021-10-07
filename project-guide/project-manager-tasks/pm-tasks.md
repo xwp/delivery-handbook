@@ -20,7 +20,8 @@
    * Naming conventions are &lt;client&gt;-xwp or &lt;client&gt;-&lt;project&gt;-xwp
    * Invite all team members working on the project
    * Invite Account Manager, and likely members of the Operations Team
-   * Ask a Slack admin to Invite the client to the channel
+   * Click ‘Share Channel’, enter client email addresses, include an optional invitation note, and click done
+     * _No action needed from PM &gt; once client accepts invite, XWP slack admin will need to approve_
    * Welcome the client to the channel once they have accepted the invite
    * _Note: whenever possible we look to create shared channels with Client organizations, and avoid having single or multi-channel guests._ 
 10. Prepare Knowledge Transfer/Onboarding documentation
