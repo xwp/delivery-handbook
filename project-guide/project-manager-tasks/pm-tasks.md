@@ -21,6 +21,7 @@
    * Invite all team members working on the project
    * Invite Account Manager, and likely members of the Operations Team
    * Click ‘Share Channel’, enter client email addresses, include an optional invitation note, and click done
+     * _Note: The Client my also need admin approval on their side. Please ensure your Client contact is aware._
      * _No action needed from PM &gt; once client accepts invite, XWP slack admin will need to approve_
    * Welcome the client to the channel once they have accepted the invite
    * _Note: whenever possible we look to create shared channels with Client organizations, and avoid having single or multi-channel guests._ 
