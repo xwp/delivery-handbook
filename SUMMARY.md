@@ -16,7 +16,7 @@
     * [Deposits](project-guide/project-manager-tasks/deposits.md)
     * [Setup Jira](project-guide/project-manager-tasks/setup-jira.md)
     * [Agile Scrum at XWP](project-guide/project-manager-tasks/setup-scrum/README.md)
-      * [Stand-up Workflows in Slack](project-guide/project-manager-tasks/setup-scrum/setting-up-a-stand-up-workflow-in-slack.md)
+      * [Standup Workflows in Slack](project-guide/project-manager-tasks/setup-scrum/setting-up-a-stand-up-workflow-in-slack.md)
     * [Lean Agile at XWP](project-guide/project-manager-tasks/kanban-best-practices.md)
     * [Team Scheduling Requests](project-guide/project-manager-tasks/team-scheduling-requests.md)
     * [Reviewing Overall Team Availability](project-guide/project-manager-tasks/reviewing-overall-team-availability.md)
@@ -33,4 +33,3 @@
     * [Releasing](project-guide/architect-tasks/releasing.md)
   * [Testing](project-guide/testing.md)
 * [Account and Project Management](account-management.md)
-
